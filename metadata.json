@@ -1,0 +1,7 @@
+{
+  "name": "AM Study Advisor",
+  "description": "Professional study abroad consultancy helping students with university admissions, visa processing, and scholarships.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
